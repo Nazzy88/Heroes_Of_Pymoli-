@@ -8,7 +8,7 @@ Congratulations! After a lot of hard work in the data munging mines, you've land
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-### Technologies
+## Technologies
 * Python
 * Pandas
 * Numpy
@@ -17,7 +17,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 Your final report should include each of the following:
 
-### Player Count
+## Player Count
 
 * Total Number of Players
 ```python
@@ -31,7 +31,7 @@ total_players_df
 ```
 ![pc](Images/pc.png)
 
-### Purchasing Analysis (Total)
+## Purchasing Analysis (Total)
 
 * Number of Unique Items
 * Average Purchase Price
@@ -64,7 +64,7 @@ Summary_df.head().style.format({"Average Purchase Price":"${0:.2f}",
 ```
 ![pat](Images/pat.png)
 
-### Gender Demographics
+## Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
@@ -86,7 +86,7 @@ total_revenue_df = purchase_raw_data_df['Price'].sum()
 
 ![genderdemo](Images/genderdemo.png)
 
-### Purchasing Analysis (Gender)
+## Purchasing Analysis (Gender)
 
 * The below each broken by gender
   * Purchase Count
@@ -120,7 +120,7 @@ gender_demo_df.style.format({"Avg. Purchase Price":"${0:.2f}",
 ```
 ![pagender](Images/pagender.png)
 
-### Age Demographics
+## Age Demographics
 
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
@@ -155,7 +155,7 @@ age_demographics.style.format({'Percentage of Players':"{0:.2f}%"})
 ```
 ![agedemo](Images/agedemo.png)
 
-### Top Spenders
+## Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
@@ -191,7 +191,7 @@ purchasing_analysis_df
 ```
 ![topspender](Images/topspender.png)
 
-### Most Popular Items
+## Most Popular Items
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
@@ -223,7 +223,7 @@ popular_df
 ```
 ![mostpopular](Images/mostpopular.png)
 
-### Most Profitable Items
+## Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
@@ -257,7 +257,7 @@ most_profit_df
 ```
 ![mostprofitable](Images/mostprofitable.png)
 
-### Observations
+## Observations
 * Gender Demographics:
 There is a definite gender trend, with male identified customers making up 84.03 % of the players compared to female identified customers at 14.06%.  What is interesting is that female customers that play the game are willing to spend 40 cents more than males even though they make up the low percentage of the players.   Also, in the data there is a non-disclosed gender which makes up 1.91% of the gender data.  The non-disclosed gender is willing to spend more than the female and male gender.  Perhaps it would be good to test a genderless character to the game.  Also, add more marketable elements to the female audience in the game so they can gain more customers.
 
