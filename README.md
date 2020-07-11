@@ -251,15 +251,15 @@ most_profit_df
 ![mostprofitable](Images/mostprofitable.png)
 
 ### Observations
-Gender Demographics:
-•	There is a definite gender trend, with male identified customers making up 84.03 % of the players compared to female identified customers at 14.06%.  What is interesting is that female customers that play the game are willing to spend 40 cents more than males even though they make up the low percentage of the players.   Also, in the data there is a non-disclosed gender which makes up 1.91% of the gender data.  The non-disclosed gender is willing to spend more than the female and male gender.  Perhaps it would be good to test a genderless character to the game.  Also, add more marketable elements to the female audience in the game so they can gain more customers.
+* Gender Demographics:
+There is a definite gender trend, with male identified customers making up 84.03 % of the players compared to female identified customers at 14.06%.  What is interesting is that female customers that play the game are willing to spend 40 cents more than males even though they make up the low percentage of the players.   Also, in the data there is a non-disclosed gender which makes up 1.91% of the gender data.  The non-disclosed gender is willing to spend more than the female and male gender.  Perhaps it would be good to test a genderless character to the game.  Also, add more marketable elements to the female audience in the game so they can gain more customers.
 
-Age Demographics: 
-•	The age range that has the most purchases at 365 is 20-24 yrs, in second is 15-19 yrs at 136, at third is 25-29 years at 101.  The age range that will spend the most is 35-39 years at an average purchase of $3.60 compared to the 20-24 yrs at $3.05 average purchase.  They should try to make parts of the game more appealing to the 15-19 yrs age range and the 35-39 age rage since they spend the most. 
+* Age Demographics: 
+The age range that has the most purchases at 365 is 20-24 yrs, in second is 15-19 yrs at 136, at third is 25-29 years at 101.  The age range that will spend the most is 35-39 years at an average purchase of $3.60 compared to the 20-24 yrs at $3.05 average purchase.  They should try to make parts of the game more appealing to the 15-19 yrs age range and the 35-39 age rage since they spend the most. 
 
-Most Popular Items: 
-•	The Final Critic and Oathbreaker, Last Hope of the Breaking Storm are the most popular items.  It would be good to understand what the common element between both of them is and to add more of those items to increase revenues. 
+* Most Popular Items: 
+The Final Critic and Oathbreaker, Last Hope of the Breaking Storm are the most popular items.  It would be good to understand what the common element between both of them is and to add more of those items to increase revenues. 
 
-Conclusion:
+* Conclusion:
 There seems to be a common reoccurring theme that they need to appeal to the female audience and the older they are the more they will spend.  Also, they need figure out what is the most common element of the top 2 popular items and then replicate them. 
 
